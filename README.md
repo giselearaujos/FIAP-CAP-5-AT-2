@@ -17,8 +17,8 @@ Projeto desenvolvido a partir dos módulos estudados do curso Sistema para Inter
 <br>
 
 <p align="center">
-  <img alt="Imagem do protótipo" src="./assets/index.png" width="100%">
-  <img alt="Imagem do protótipo" src="./assets/login.png" width="100%">
+  <img alt="Imagem do protótipo" src="./assets/login.png" width="50%">
+  <img alt="Imagem do protótipo" src="./assets/index.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
